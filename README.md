@@ -1,3 +1,7 @@
-# Portafolio Manuel Montufar Galnares
+# Ingeniero en Ciencia de Datos y Matemáticas
 
-Proyecto 1 
+## Experiencia Laboral
+
+## Educación 
+
+## Proyectos
