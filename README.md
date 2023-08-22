@@ -1,3 +1,3 @@
-# Portafolio Manuel Montufar Galnares
+title: Portafolio Manuel Montufar Galnares
 
 Proyecto 1 
