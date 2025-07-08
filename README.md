@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Scholar del área IT&D for Sales & Customers en Reckitt, me dedico a hacer análisis de venta y automatizaciones para otros equipos relacionados.<br>Estudiante de Ingeniería en Ciencia de Datos y Mátematicas<br>Apasionado del Analisis de  Datos, Machine y Deep Learning.
+Soy Execution Analyst o Newspage Analyst del área IT&D for Sales & Customers en Reckitt, me dedico a hacer analisis de punto de venta, generar encuestas para los equipos de promotoria y coordinación con equipos de operación y ejecución para la aplicación de Newspage.<br>Estudiante de Ingeniería en Ciencia de Datos y Mátematicas<br>Apasionado del Analisis de  Datos, Machine y Deep Learning.
 
 
 ## 🌐 Socials:
