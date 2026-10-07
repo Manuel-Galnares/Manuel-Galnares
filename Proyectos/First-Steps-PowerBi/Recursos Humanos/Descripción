@@ -1,0 +1,13 @@
+Se trabajo en este proyecto en un reporte de Recursos Humanos, se utilizo un libro de excel con tres bases de datos, se relacionaron
+para crear un modelo para su posterior analisis.
+
+Se creo una pestaña de Total Colaboradores en el que creamos algunas metricas DAX para destacar insights, utilizamos metricas como conteos, promedios
+y fracciones de año, tambien creamos columnas condicionales para segmentar y agrupar en distintas categorias, como edades, sueldos y evaluaciones
+
+Se crearon bookmarks para relacionar las hojas, se usaron graficos de barras, de dispersión y de anillo para analizar comportarmientos de las columnas 
+condicionales 
+
+En la parte del analisis, además de la pestaña principal, se hicieron dos hojas más, una donde se analizan los sueldos de los empleados
+y otra donde se analizan las evaluaciones del desempeño de los trabajadores.
+
+Se trabajo en nuevas formas de representar los graficos, añadir etiquetas de datos que sirven para mejorar la toma de decisiones o para obtener mejores insights.

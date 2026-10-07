@@ -1,0 +1,12 @@
+El siguiente reporte de Power Bi, es un trabajo donde se aprendio a crear relaciones entre bases de datos, se trabajo con columnas condicionales y valores condicionales para ciertos elementos.
+¿Cómo?
+Se cargaron 5 bases de Datos
+1- Población, donde vemos la cantidad de población a atraves de distintos países
+2 y 3- Paises y Countries,  Aquí solo vemos El contiente, el país y el código de País
+4- Esperanza de Vida, donde observamos la esperanza de vida de distintos países 
+5- Mortalidad Infantil, vemos cuantos infantes menores a un año mueren en distintos países
+
+A partir de relaciones las bases de datos, con homologación unica en países y el código de país, se hizo un primer análisis de poblaciones por cada país y se hicieron categorías adicionales para clasificar distintos parametros,
+por ejemplo si iban de 0 - 1 millon de población o cuantos con más de 100 millones de población
+
+Un segundo ánalisis implico conocer la esperanza de vida y mortalidad en distintos países, donde tambien aplicamos nuevas categorias pero incluimos formatos condicionales para dar una visualización más intuitiva del reporte.
