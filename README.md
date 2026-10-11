@@ -1,32 +1,37 @@
-# 💫 About Me:
-IT&D Newspage Analyst at Reckitt, focused on point-of-sale execution management and business intelligence. I manage survey creation and route cycles through Accenture's Newspage platform, coordinate cross-functional teams (Marketing, Trade Marketing, Category Management, Execution), and develop Power BI dashboards that drive commercial decision-making. I've led implementations like Image Recognition, Calendar View, and built LATAM's first Incident Management module.<br><br>Data Science and Mathematics Engineer from Tecnologico de Monterrey. Passionate about data-driven solutions, process automation, and AI applied to business problems.
+# Hi, I'm Manuel 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-montufar-galnares-0645472b7/) 
+**Global Business Specialist at Reckitt (Mead Johnson Nutrition)** · Digital Product & Project Management · Data & BI
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Newspage](https://img.shields.io/badge/Newspage-%23FF69B4.svg?style=for-the-badge&logoColor=white)
+I'm a Data Science and Mathematics Engineer (Tecnológico de Monterrey) working at the intersection of business and technology. I help commercial teams adopt digital platforms and turn business needs into solutions people actually use, from requirements and prototyping to go-live and adoption.
 
-# 🚀 Proyectos:
+**Some of what I've delivered:**
+- **Next Visit:** identified the opportunity for and led end-to-end delivery of a Power BI decision-support product for a 22-person field sales leadership team, saving ~9,000 planning hours a year.
+- **Newspage MFA adoption:** trained 250 merchandisers across Mexico and grew platform adoption by 180% in two months.
+- **SLA compliance:** built the tracking for Veeva CRM/Vault Managed Services from scratch and improved compliance from 61% to 88% in two months.
 
-| Proyecto | Descripción | Tecnologías |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-montufar-galnares)
+
+## 🧰 Tech Stack
+
+**Data & BI**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**AI & Prototyping**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Commercial Platforms**
+![Veeva CRM](https://img.shields.io/badge/Veeva_CRM_/_Vault-F7931E?style=for-the-badge&logoColor=white) ![Newspage](https://img.shields.io/badge/Accenture_Newspage-FF69B4?style=for-the-badge&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Microsoft Planner](https://img.shields.io/badge/Planner-31752F?style=for-the-badge&logo=microsoft&logoColor=white)
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
 |---|---|---|
-| [🤖 Ollama-Chatbot](Proyectos/Ollama-Chatbot) | Chatbot fitness con IA: LangChain + Ollama 3.2, interfaz en Streamlit y un RAG sobre dos PDFs. | `Python` `LangChain` `Ollama` `Streamlit` |
-| [🚀 SpaceShip-Titanic](Proyectos/SpaceShip-Titanic) | Clasificación de pasajeros transportados: EDA, comparación de modelos, comparaciones bayesianas, matrices de confusión y curvas ROC AUC. | `Python` `scikit-learn` `Jupyter` |
-| [📊 First-Steps-PowerBi](Proyectos/First-Steps-PowerBi) | Colección de reportes en Power BI (Defensa del Consumidor, Indicadores Mundiales, Recursos Humanos, Venta de Videojuegos). | `Power BI` `Excel` |
-| [🎓 Certificados](Proyectos/Certificados) | Certificados de cursos (Kaggle: Python, Pandas, Intro to ML, Intermediate ML, entre otros). | `Kaggle` |
+| [🤖 Ollama-Chatbot](https://github.com/Manuel-Galnares/Ollama-Chatbot) | Fitness chatbot running a local LLM (Llama 3.2 via Ollama) with RAG over PDF documents and a Streamlit interface. | `Python` `LangChain` `Ollama` `Streamlit` |
+| [🚀 SpaceShip-Titanic](https://github.com/Manuel-Galnares/SpaceShip-Titanic) | Passenger classification: EDA, model comparison with hyperparameter tuning, Bayesian comparison, confusion matrices and ROC AUC. | `Python` `scikit-learn` `Jupyter` |
 
-> Cada proyecto también existe como repositorio independiente: [Ollama-Chatbot](https://github.com/Manuel-Galnares/Ollama-Chatbot) · [SpaceShip-Titanic](https://github.com/Manuel-Galnares/SpaceShip-Titanic) · [First-Steps-PowerBi](https://github.com/Manuel-Galnares/First-Steps-PowerBi) · [Certificados](https://github.com/Manuel-Galnares/Certificados)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manuel-Galnares&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Manuel-Galnares&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Galnares&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manuel-Galnares&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Currently
+- Learning **SQL**
+- Building toward digital and technical product roles
